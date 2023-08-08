@@ -1,6 +1,6 @@
 # twitter-rocketseat
 Recriação da timeline do twitter utilizando html e css após acompanhar o curso da rocketseat<br>
-Aprendi sobre flexbox
+Acesse o site em: https://frdbrq.github.io/twitter-rocketseat/
 
 <img src="https://img.shields.io/github/issues/frdbrq/twitter-rocketseat" />
 <img src="https://img.shields.io/github/forks/frdbrq/twitter-rocketseat" />
