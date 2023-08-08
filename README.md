@@ -37,4 +37,4 @@ $ git clone https://github.com/frdbrq/twitter-rocketseat.git
  <br />
  <sub><b>Fred Buarque</b></sub></a> <a href="https://github.com/frdbrq" title="Rocketseat">🚀</a> <br>
 
-### Projeto desenvolvido com carinho após acompanhar as aulas do curso da alura HTML e CSS: Praticando HTML/CSS
+### Projeto desenvolvido com carinho após acompanhar as aulas do curso da Rocketseat sobre CSS
